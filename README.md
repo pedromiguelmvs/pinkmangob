@@ -22,9 +22,13 @@ Antes de começar, quero esclarecer que, por motivos de organização, este proj
 
 # :pushpin: Indice
 
+* [Considerações Iniciais](#paintbrush-considerações-iniciais)
 * [Features](#rocket-features)
-* [Getting Started](#runner-rodando-o-projeto)
+* [Rodando o projeto](#runner-rodando-o-projeto)
 
+# :paintbrush: Considerações iniciais
+
+Antes de começar, quero esclarecer que, por motivos de organização, este projeto foi dividido em duas partes: __frontend__ e __backend__. O backend pode ser acessado [clicando aqui](https://github.com/pedromiguelmvs/pinkmangob).
 
 # :rocket: Features
 
