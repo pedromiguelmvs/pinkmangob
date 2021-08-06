@@ -1,0 +1,25 @@
+{
+   "name": "pinkmango",
+   "version": "1.0.0",
+   "main": "index.js",
+   "license": "MIT",
+   "devDependencies": {
+      "@types/express": "^4.17.13",
+      "@types/node": "^8.0.29",
+      "nodemon": "^2.0.12",
+      "ts-node": "3.3.0",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "class-validator": "^0.13.1",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "moment": "^2.29.1",
+      "pg": "^8.4.0",
+      "reflect-metadata": "^0.1.10",
+      "typeorm": "0.2.36"
+   },
+   "scripts": {
+      "start": "nodemon --watch 'src/' --exec 'ts-node src/index.ts' -e ts"
+   }
+}
